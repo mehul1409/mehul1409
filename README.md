@@ -9,6 +9,7 @@
 - 💬 Ask me about **technologies used i frontend web development**
 
 - 📫 How to reach me **mehulbansalswm1234@gmail.com**
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
