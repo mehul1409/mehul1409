@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul1409&" alt="mehul1409" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehul1409" alt="mehul1409" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehul1409" alt="mehul1409" /></a> </p>
 
 
