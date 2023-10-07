@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mehul Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://holopin.io/@mehul1409" alt="network issue">
+<img src="https://holopin.io/@mehul1409"  alt="network issue">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul1409&label=Profile%20views&color=0e75b6&style=flat" alt="mehul1409" /> </p>
 
 - 🌱 I’m currently learning **React**
